@@ -1,2 +1,0 @@
-# ReachAllStore
-Web Project
